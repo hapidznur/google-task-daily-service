@@ -6,6 +6,10 @@ Create google task service to provide other service
 Google Task have Good UI and UX to create daily schedulling. 
 
 ## Workflow
+0. Without Login
 1. Create task on TaskList
 2. Get task by TaskList
 3. Queue Service
+
+## License
+CC 3.0
